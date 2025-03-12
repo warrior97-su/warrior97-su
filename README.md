@@ -17,19 +17,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://twitter.com/warrior97-su/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@warrior97-su"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=warrior97-su&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@warrior97-su"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
-
-  </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
@@ -206,23 +193,6 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/github.webp">
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
 
 </div>
 
