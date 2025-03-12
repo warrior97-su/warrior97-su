@@ -80,16 +80,12 @@
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=warrior97-su&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=warrior97-su&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=warrior97-su&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/right.png" />
 
-<!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/github-metrics/base.svg" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -198,15 +194,6 @@
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/githubgif.gif" />
 
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<!-- second form 第二个表格 -->
-<table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/github-metrics/reactions.svg" alt="reactions" /></td>
