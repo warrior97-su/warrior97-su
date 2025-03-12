@@ -35,7 +35,6 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是Phonon。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
@@ -70,8 +69,6 @@
 
 <div align="center">
 
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/man_run.png" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div>
@@ -113,8 +110,6 @@
 
 <div align="center" >
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/mb.png" width="250" height="250" />
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
@@ -141,8 +136,6 @@
 
 <div align="center" >
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/warrior97-su/warrior97-su/assets/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 
